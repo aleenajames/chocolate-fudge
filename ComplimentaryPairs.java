@@ -22,7 +22,7 @@ public class ComplimentaryPairs {
 		
 		ComplimentaryPairs temp = new ComplimentaryPairs();
 		int result = temp.solution(k,a);
-		System.out.println(result);
+		System.out.println("The Result is " + result);
 
 	}
 	
